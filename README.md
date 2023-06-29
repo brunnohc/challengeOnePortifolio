@@ -50,9 +50,9 @@ OU
 
 1.Você pode acessar atravez dos links
 <br>
-2./ (GitHub Pages)
+2.https://brunnohc.github.io/challengeOnePortifolio/ (GitHub Pages)
 <br>
-3./ (Vercel App)
+3.https://challenge-one-portifolio.vercel.app/ (Vercel App)
 
 
 ## Agradecimentos
