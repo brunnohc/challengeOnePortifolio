@@ -50,9 +50,9 @@ OU
 
 1.Você pode acessar atravez dos links
 <br>
-2.https://erikcwill.github.io/challenge-ONE-portfolio/ (GitHub Pages)
+2./ (GitHub Pages)
 <br>
-3.https://challenge-one-portfolio-alpha.vercel.app/ (Vercel App)
+3./ (Vercel App)
 
 
 ## Agradecimentos
@@ -63,5 +63,5 @@ Gostaria de agradecer à Turma 5 da ONE e à Alura por proporcionar essa oportun
 
 Se você deseja entrar em contato comigo para oportunidades profissionais ou qualquer outra razão, pode me encontrar nos seguintes canais:
 
--   E-mail: [erikcwill@gmail.com](mailto:erikcwill@gmail.com)
--   LinkedIn: [Erick William](https://www.linkedin.com/in/erikcwill/)
+-   E-mail: [brunnohdlc@gmail.com](mailto:brunnohdlc@gmail.com)
+-   LinkedIn: [Brunno Corrêa](https://www.linkedin.com/in/brunnohc/)
