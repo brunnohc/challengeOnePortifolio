@@ -36,7 +36,7 @@ Eu optei por seguir o modelo figma o mais fiel possivel, pois acredito que isso 
 -   HTML
 -   CSS
 -   Javascript
-- 
+  
 ## Metodologia BEM
 
 Para manter um código organizado e de fácil manutenção, utilizei a metodologia BEM (Block Element Modifier) para nomear as classes CSS de forma semântica e estruturada. Isso ajuda a evitar conflitos e facilita a compreensão do código por parte de outros desenvolvedores.
@@ -50,9 +50,9 @@ OU
 
 1.Você pode acessar atravez dos links
 <br>
-2.https://erikcwill.github.io/challenge-ONE-portfolio/ (GitHub Pages)
+2.https://brunnohc.github.io/challengeOnePortifolio/ (GitHub Pages)
 <br>
-3.https://challenge-one-portfolio-alpha.vercel.app/ (Vercel App)
+3.https://challenge-one-portifolio.vercel.app/ (Vercel App)
 
 
 ## Agradecimentos
@@ -63,5 +63,5 @@ Gostaria de agradecer à Turma 5 da ONE e à Alura por proporcionar essa oportun
 
 Se você deseja entrar em contato comigo para oportunidades profissionais ou qualquer outra razão, pode me encontrar nos seguintes canais:
 
--   E-mail: [erikcwill@gmail.com](mailto:erikcwill@gmail.com)
--   LinkedIn: [Erick William](https://www.linkedin.com/in/erikcwill/)
+-   E-mail: [brunnohdlc@gmail.com](mailto:brunnohdlc@gmail.com)
+-   LinkedIn: [Brunno Corrêa](https://www.linkedin.com/in/brunnohc/)
