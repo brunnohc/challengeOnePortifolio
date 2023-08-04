@@ -1,5 +1,5 @@
 
-# Projeto Frontend Porfólio Pessoal
+# Projeto Frontend Portifólio Pessoal
 
 Este é um projeto criado para atender ao segundo desafio proposto pela Turma 5 da ONE em parceria com a Alura. O objetivo era criar nosso portfólio pessoal.
 
